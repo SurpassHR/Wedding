@@ -1,6 +1,6 @@
 (function($) {
     $.countdown.regionalOptions['bg'] = {
-        labels: ['Y', 'M', 'W', 'D', 'h', 'm', 's'],
+        labels: ['Y', 'M', 'W', '天', '时', '分', '秒'],
         labels1: ['Y', 'M', 'W', 'D', 'h', 'm', 's'],
         compactLabels: ['l', 'm', 'n', 'd'],
         compactLabels1: ['g', 'm', 'n', 'd'],
@@ -8,7 +8,7 @@
         digits: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'],
         timeSeparator: ':',
         isRTL: false,
-        format: 'YdHMs'
+        format: 'dHMs'
     };
     $.countdown.setDefaults($.countdown.regionalOptions['bg']);
 })(jQuery);
