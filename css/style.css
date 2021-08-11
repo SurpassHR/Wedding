@@ -1228,7 +1228,7 @@ img.with-border {
     /* Chrome, Safari, Opera */
     transform: rotate(-10deg);
     padding-top: 100px;
-    padding-right: 50px;
+    padding-right: 35px;
     margin-bottom: 20px;
 }
 
@@ -2904,7 +2904,7 @@ form .has-error .btn-primary {
     -ms-transform: rotate(-10deg);
     -webkit-transform: rotate(-10deg);
     transform: rotate(-10deg);
-    padding-right: 30px;
+    padding-right: 20px;
     margin-top: 0px;
     margin-bottom: 25px;
 }
@@ -2990,7 +2990,7 @@ footer .image-divider.fixed-height {
     -ms-transform: rotate(-10deg);
     -webkit-transform: rotate(-10deg);
     transform: rotate(-10deg);
-    padding-right: 30px;
+    padding-right: 0px;
     margin-top: 40px;
     margin-bottom: 25px;
 }
@@ -3907,7 +3907,6 @@ a:hover .navbar-setting-button,
         /* 06.5.6 Save The Date Title */
         /* ----------------------------------------------*/
         #save-the-date {
-            padding-right: 40px;
             padding-top: 0;
             margin-bottom: 0px;
         }
@@ -3943,7 +3942,6 @@ p{
         /* 06.5.6 Save The Date Title */
         /* ----------------------------------------------*/
         #save-the-date {
-            padding-right: 40px;
             margin-bottom: 0px;
             padding-top: 0;
         }
@@ -4122,7 +4120,7 @@ p{
         /* 06.5.6 Save The Date Title */
         /* ----------------------------------------------*/
         #save-the-date {
-            padding-right: 40px;
+            padding-right: 0px;
             padding-top: 0;
             margin-bottom: 0px;
         }
