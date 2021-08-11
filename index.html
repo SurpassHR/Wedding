@@ -709,7 +709,7 @@
         $(function () {
             // 微信WeixinJSBridgeReady事件触发
             document.addEventListener('WeixinJSBridgeReady', function () {
-                document.getElementById('audios').play()
+                document.getElementsByTagName('audio').play()
             })
             // 触摸屏事件触发
             document.addEventListener('touchstart', function () {
